@@ -1,0 +1,68 @@
+export const projects = [
+  {
+    title: 'Covid-19 Status App',
+    description: "COVID-19 Status is a free, open-source Android application that shows the current state of COVID-19 in India and the world. It has a beautiful, simple, fast, and responsive UI.",
+    image: '/images/covid.jpg',
+    tags: ['Java', 'XML', 'Firebase', 'Rest API'],
+    source: '',
+    visit: '',
+    id: 0,
+  },
+  {
+    title: 'Portfolio Website',
+    description: "This was my personal portfolio website that has all my work and project experience, including my resume. It used to be my main portfolio before deploying this current portfolio.",
+    image: '/images/portfolio.jpg',
+    tags: ['HTML', 'CSS', 'Bootstrap', 'JQuery'],
+    source: '',
+    visit: '',
+    id: 1,
+  },
+  {
+    title: 'ABS Tweaks',
+    description: "ABS Tweaks or Arkaynine Boost Script is a collection of shell scripts written with the aim of enhancing the performance and battery life of an Android phone. It got 2 Lac+ downloads overall.",
+    image: '/images/abs.jpg',
+    tags: ['Shell', 'Busybox'],
+    source: '',
+    visit: '',
+    id: 2,
+  },
+  {
+    title: 'ElectraBlue Kernel',
+    description: "ElectraBlue is a flash & forget custom kernel for supported Android devices. It was developed with the aim to provide a stable, fluid, & battery-efficient experience with customizations.",
+    image: '/images/eb.jpg',
+    tags: ['Linux', 'C', 'Makefile', 'Bash'],
+    source: '',
+    visit: '',
+    id: 3,
+  },
+  {
+    title: 'Lenovo SNAPit',
+    description: "Lenovo SNAPit Camera was one of the finest OEM camera apps back in those days. It had tonnes of unique and amazing features. I ported it to work on almost all devices at that time.",
+    image: '/images/snapit.jpg',
+    tags: ['Java', 'Libs', 'Smali'],
+    source: '#',
+    visit: '',
+    id: 3,
+  },
+  {
+    title: 'CyanogenOS Apps',
+    description: "CyanogenOS 12.1 had a set of exclusive apps like a new theme engine and a new Truecaller integrated dialer. I ported it to work with CyanogenMod 13 and CM 13 based ROMs.",
+    image: '/images/capps.jpg',
+    tags: ['Java', 'Libs'],
+    source: '#',
+    visit: '',
+    id: 3,
+  },
+
+];
+
+export const TimeLineData = [
+  { year: 2019, text: 'Started my journey as a developer.', },
+  { year: 2020, text: 'Worked intensively on C and C++.', },
+  { year: 2021, text: 'Learned Javascript.And Started internship in full stack development', },
+  { year: 2022, text: 'Finished Diploma in Computer Engineering.', },
+  { year: 2023, text: 'Got Admission in Vishwakarma Institute of Technology', },
+  { year: 2024, text: 'Now looking for Contribution oppurtunity', },
+  { year: 2025, text: 'Will be  B.Tech in Information Technology.' },
+  { year: 2025, text: 'Year under progress....', },
+];
